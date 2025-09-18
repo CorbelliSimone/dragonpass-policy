@@ -1,4 +1,4 @@
-Privacy Policy
+Privacy Policy - DragonPass Chrome extension
 
 Italiano 🇮🇹
 
