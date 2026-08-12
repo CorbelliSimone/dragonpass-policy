@@ -25,3 +25,7 @@ DragonSoftwarePass collects and stores certain user information, including passw
 	•	No analytics, tracking, or unnecessary data transmissions are performed beyond what is required for the extension’s functionality.
 
 Users will be informed of any changes to this policy through updates to this page.
+
+Chrome web store: https://chromewebstore.google.com/detail/dragonsoftwarepass/ggfhllmkigliogmbadbinglkihjcpjbj
+Android: https://play.google.com/store/apps/details?id=it.simone.tecnologie.dragon_software_pass_android
+Desktop: https://github.com/CorbelliSimone/GayPass_FE/releases
